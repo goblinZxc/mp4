@@ -1,0 +1,77 @@
+.container{
+	border: 1px solid #E0E0E0;
+	overflow: auto;
+	/*height: 500px;*/
+	width: 960px;
+	padding: 0!important;
+	border-radius: 3px;margin: 5px auto;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.rightbox{
+	width: 316px;
+}
+.title{
+	background: #6293C4;
+}
+.title h5{
+	color: #fff;text-indent: 20px;
+}
+.rightbox{
+	height:100%;
+	background: #F5F5F5;
+}
+.rightbox img{
+	margin:35px;
+}
+
+.leftbox{
+	width: 642px;
+}
+
+.nav-pills{
+	margin: 88px 110px 34px 110px;
+	border:1px solid #B6B6B6;
+	background: #fff;
+}
+.nav-pills li{
+	width:140px;
+	margin: 0!important;
+	border-radius: 0!important;
+	text-align: center;
+}
+.nav-pills li a{
+	color: #555;
+	border-radius: 0!important;
+}
+.btn{
+	margin-left: 30px;
+	font-size: 16px;
+	padding: 13px 30px;
+}
+.phone{
+	margin-left: 30px;line-height: 34px;height: 34px;
+}
+.phone .col-sm-6{
+	position: relative;
+}
+.phone .col-sm-6 .s1{
+	position: absolute;
+	left: 18px;
+	top: 10px;
+	/*background: url(../img/1.png) no-repeat;*/
+	width: 12px;height: 15px;
+}
+.phone .form-group{
+	margin-left: 20px;
+}
+.checkbox{
+	margin-left: 45px;
+}
+.checkbox p{
+	margin-top: -6px;
+}
